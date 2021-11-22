@@ -1,0 +1,38 @@
+body
+{
+padding: 0px;
+margin-top: 10;
+background-color:#999693;
+text-align: right;
+}
+div claas1
+{
+text-align: center;
+}
+div{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid rgb(red, rgb(128, 26, 0), blue);
+}
+img{
+    padding-right: 45%;
+
+    
+}
+hr{
+background: red;
+}
+h1{
+text-align: center;
+color: #c900ff;
+
+}
+h2{
+    text-align: center;
+    
+}
+.avater{
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+}
